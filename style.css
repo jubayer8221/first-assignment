@@ -1,0 +1,161 @@
+body {
+    margin: 0px;
+    font-family: 'Crete Round', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#banner {
+    background: linear-gradient(rgba(150, 146, 146, 0.5), rgb(0, 0, 41)), url(/image/one.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+.banner-text {
+    text-align: center;
+    color: white;
+    padding-top: 160px;
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(8, 215, 230);
+    text-align: center;
+}
+
+.banner-text p {
+    font-size: 20px;
+}
+
+.button-link {
+    text-decoration: none;
+    background-color: rgb(8, 215, 230);
+    margin: 10%;
+    color: black;
+    height: 700px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.donate {
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 5%;
+    margin: 5%;
+    background-color: rgb(217, 232, 232);
+    border-color: black;
+    width: 80;
+}
+
+
+#press {
+    border: 3px solid rgb(15, 191, 218);
+    background-color: rgb(230, 239, 238);
+
+}
+
+.Other {
+    text-align: center;
+
+}
+
+section {
+    padding: 5px;
+}
+
+#center {
+    padding-top: 30px;
+}
+
+.plan img {
+    width: 40px;
+    height: 40px;
+}
+
+.Donate-plan {
+    padding-top: 100px;
+}
+
+.donate-inline {
+    display: inline;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 18%;
+}
+
+.plan {
+    margin-left: 20px;
+    background-color: rgb(10, 216, 227);
+    padding: 20px;
+}
+
+.subcolor {
+    background-color: white;
+    border: 2px solid rgb(14, 224, 203);
+}
+
+
+
+.blog {
+    padding-top: 1px;
+
+}
+
+.box {
+    width: 400px;
+    background-color: rgb(144, 209, 193);
+    height: 100px;
+    background-position: center;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.input-background {
+    margin-top: 40px;
+    padding: 15%;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.Subscribe {
+    background-color: rgb(255, 0, 0);
+    padding: 2%;
+    margin: 0px 0px;
+    height: 30px;
+    border: none;
+
+
+}
+
+.input {
+    background-color: rgb(255, 255, 255);
+    padding-left: 5px;
+}
+
+.footer {
+    width: 100%;
+    background-color: black;
+    height: 200px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
