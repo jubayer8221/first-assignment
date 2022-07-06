@@ -32,11 +32,12 @@ h1 {
 .button-link {
     text-decoration: none;
     background-color: rgb(8, 215, 230);
-    margin: 10%;
+    margin: 15%;
     color: black;
     height: 700px;
     padding: 10px 20px;
     border-radius: 5px;
+
 }
 
 p {
@@ -57,10 +58,10 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 5%;
-    margin: 5%;
+    margin: 4%;
     background-color: rgb(217, 232, 232);
     border-color: black;
-    width: 80;
+    width: 40;
 }
 
 
@@ -88,22 +89,45 @@ section {
     height: 40px;
 }
 
-.Donate-plan {
-    padding-top: 100px;
-}
-
 .donate-inline {
     display: inline;
     display: flex;
     align-items: center;
     padding-top: 40px;
     padding-left: 18%;
+    padding-right: 18%;
+    height: auto;
 }
 
 .plan {
     margin-left: 20px;
     background-color: rgb(10, 216, 227);
     padding: 20px;
+    width: 600px;
+    height: 400px;
+}
+
+.plan p {
+    text-align: justify;
+    text-size-adjust: auto;
+}
+
+.depend {
+    display: flex;
+
+}
+
+.depend-text {
+    width: 35%;
+    margin: 5%;
+}
+
+.depend-text img {
+    width: 500px;
+    height: auto;
+    padding-top: 15px;
+    margin-top: 20px;
+
 }
 
 .subcolor {
