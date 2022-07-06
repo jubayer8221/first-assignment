@@ -6,7 +6,7 @@ body {
 }
 
 #banner {
-    background: linear-gradient(rgba(150, 146, 146, 0.5), rgb(0, 0, 41)), url(/image/one.jpg);
+    background: linear-gradient(rgba(150, 146, 146, 0.5), rgb(0, 0, 41)), url(image/one.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
